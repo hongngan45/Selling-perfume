@@ -27,7 +27,7 @@
                 android:layout_marginTop="32dp"
                 android:text="Giỏ hàng"
                 android:textAlignment="center"
-                android:textColor="#ff3d00"
+                android:textColor="#00BCD4"
                 android:textSize="30dp"
                 android:textStyle="bold" />
 
@@ -159,8 +159,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_margin="16dp"
-                android:background="@drawable/orange_button_background"
                 android:gravity="center"
+                android:background="@drawable/background_btn"
                 android:text="Đặt hàng"
                 android:textColor="#ffffff"
                 android:textSize="25sp"

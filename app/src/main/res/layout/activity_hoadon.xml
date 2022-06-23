@@ -29,7 +29,7 @@
                 android:layout_height="100dp"
                 android:gravity="center"
                 android:text="Hoá Đơn"
-                android:textColor="#FF4800"
+                android:textColor="#00BCD4"
                 android:textSize="50dp"
                 android:textStyle="bold" />
 

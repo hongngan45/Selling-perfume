@@ -1,10 +1,9 @@
-package com.example.bandodientu;
+package com.example.SweetLNP;
 
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.Toast;
