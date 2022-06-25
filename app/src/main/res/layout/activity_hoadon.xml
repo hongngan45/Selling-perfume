@@ -74,7 +74,7 @@
                         android:layout_width="55dp"
                         android:layout_height="50dp"
                         android:layout_marginLeft="60dp"
-                        app:srcCompat="@drawable/icontrangchu" />
+                        app:srcCompat="@drawable/iconhome" />
 
                     <TextView
                         android:id="@+id/textView111"
@@ -100,7 +100,7 @@
                         android:layout_width="45dp"
                         android:layout_height="45dp"
                         android:layout_marginLeft="85dp"
-                        android:background="@drawable/icondonhang"
+                        android:background="@drawable/hoadon"
                         />
 
                     <TextView
@@ -124,12 +124,12 @@
             android:id="@+id/giohang"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="#ff5e00"
+            android:backgroundTint="#ffffff"
             android:elevation="3dp"
-            android:src="@drawable/shopping_cart"
-            app:backgroundTint="#ff5e00"
+            android:src="@drawable/iconcart"
+            app:backgroundTint="#ffffff"
             app:layout_anchor="@id/app_bar"
             app:maxImageSize="30dp"
-            app:tint="#ffffff" />
+            app:tint="#111111" />
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
