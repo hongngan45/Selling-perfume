@@ -1,4 +1,4 @@
-package com.example.bandodientu;
+package com.example.SweetLNP;
 
 public interface TDsoSP {
     void changed();

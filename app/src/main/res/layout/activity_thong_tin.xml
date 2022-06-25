@@ -21,7 +21,7 @@
                 android:layout_height="80dp"
                 android:layout_marginLeft="12dp"
                 android:layout_marginTop="10dp"
-                android:src="@drawable/anhlogo"
+                android:src="@drawable/logo"
                 app:layout_constraintVertical_bias="0.0" />
 
             <TextView
@@ -30,8 +30,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="32dp"
                 android:layout_marginTop="35dp"
-                android:text="GaaBor"
-                android:textColor="#FF4800"
+                android:text="SweerLNP"
+                android:textColor="#000000"
                 android:textSize="28sp"
                 android:textStyle="bold"
                 app:layout_constraintHorizontal_bias="0.0" />
@@ -50,7 +50,7 @@
                 android:layout_marginTop="30dp"
                 android:gravity="center"
                 android:text="Thông Tin Cá Nhân"
-                android:textColor="#FF4800"
+                android:textColor="#00BCD4"
                 android:textSize="30dp"
                 android:textStyle="bold" />
 

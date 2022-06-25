@@ -1,4 +1,4 @@
-package com.example.bandodientu;
+package com.example.SweetLNP;
 
 import android.content.ContentValues;
 import android.content.Context;

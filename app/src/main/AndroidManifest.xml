@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.bandodientu">
+    package="com.example.SweetLNP">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Bandodientu">
         <activity
-            android:name=".intro"
+            android:name="com.example.SweetLNP.intro"
             android:exported="true" >
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
@@ -19,33 +19,33 @@
         </intent-filter>
         </activity>
         <activity
-            android:name=".Hoadon"
+            android:name="com.example.SweetLNP.Hoadon"
             android:exported="false" />
         <activity
-            android:name=".Thongtincanhan"
+            android:name="com.example.SweetLNP.Thongtincanhan"
             android:exported="false" />
         <activity
-            android:name=".ChitietSanpham"
+            android:name="com.example.SweetLNP.ChitietSanpham"
             android:exported="false" />
         <activity
-            android:name=".ThanhToan"
+            android:name="com.example.SweetLNP.ThanhToan"
             android:exported="false" />
         <activity
-            android:name=".GioHang"
+            android:name="com.example.SweetLNP.GioHang"
             android:exported="false" />
         <activity
-            android:name=".ThongTin"
+            android:name="com.example.SweetLNP.ThongTin"
             android:exported="false" />
         <activity
-            android:name=".DangKi"
+            android:name="com.example.SweetLNP.DangKi"
             android:exported="false" />
         <activity
-            android:name=".DangNhap"
+            android:name="com.example.SweetLNP.DangNhap"
             android:exported="false"/>
 
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.SweetLNP.MainActivity"
             android:exported="false" />
     </application>
 

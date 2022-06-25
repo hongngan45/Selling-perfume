@@ -46,7 +46,7 @@
         android:layout_marginBottom="10dp"
         app:layout_constraintBottom_toBottomOf="@+id/anhsp"
         app:layout_constraintStart_toEndOf="@+id/anhsp"
-        app:srcCompat="@drawable/iconminus" />
+        app:srcCompat="@drawable/minus" />
 
     <TextView
         android:id="@+id/soluong"
@@ -69,7 +69,7 @@
         app:layout_constraintBottom_toBottomOf="@+id/minusCardBtn"
         app:layout_constraintStart_toEndOf="@+id/soluong"
         app:layout_constraintTop_toTopOf="@+id/minusCardBtn"
-        app:srcCompat="@drawable/iconsplus" />
+        app:srcCompat="@drawable/plus" />
 
     <TextView
         android:id="@+id/giasp"
