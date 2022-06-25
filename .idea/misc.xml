@@ -3,6 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Selling-perfume/app/src/main/res/drawable/edit_bg.xml" value="0.125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Selling-perfume/app/src/main/res/drawable/orange_button_background.xml" value="0.125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Selling-perfume/app/src/main/res/layout/activity_chitiet_sanpham.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Selling-perfume/app/src/main/res/layout/activity_dang_ki.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Selling-perfume/app/src/main/res/layout/activity_dang_nhap.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Selling-perfume/app/src/main/res/layout/activity_hoadon.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Selling-perfume/app/src/main/res/layout/activity_thanh_toan.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Selling-perfume/app/src/main/res/layout/hienthi_sanpham.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Selling-perfume/app/src/main/res/layout/sanpham_giohang.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_dang_ki.xml" value="0.25" />
       </map>
     </option>
